@@ -42,7 +42,7 @@ Este proyecto implementa un sistema CRUD (Crear, Leer, Actualizar, Borrar) bási
 * **Actualizar registro (Update record):** Al hacer clic en el botón "Editar" (Edit) junto a un estudiante, se abre un formulario para modificar sus datos.
 * **Borrar registro (Delete record):** Al hacer clic en el botón "Borrar" (Delete) junto a un estudiante, se elimina su registro de la base de datos.
 * **Base de datos con SQLAlchemy (Database with SQLAlchemy):** La base de datos se crea automáticamente utilizando SQLAlchemy.
-* **Interfaz web con Flask y HTML (Web interface with Flask and HTML):** La interfaz de usuario se construye con HTML y se sirve mediante el framework Flask.
+* **Interfaz web con Flask y HTML (Web interface with Flask and HTML):** La interfaz de usuario se construye con HTML y funciona mediante el framework Flask.
 
 ## Estructura del proyecto (Project Structure)
 
