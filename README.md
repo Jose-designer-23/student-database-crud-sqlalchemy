@@ -11,7 +11,7 @@ Este proyecto implementa un sistema CRUD (Crear, Leer, Actualizar, Borrar) bási
 1.  **Clonar el repositorio (Clone the repository):**
     ```bash
     git clone [https://github.com/cran/DELTD](https://github.com/cran/DELTD)
-    cd [Nombre del repositorio]
+    cd [student-database-crud-sqlalchemy]
     ```
 
 2.  **Crear un entorno virtual (Create a virtual environment) (Recomendado/Recommended):**
