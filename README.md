@@ -37,7 +37,7 @@ Este proyecto implementa un sistema CRUD (Crear, Leer, Actualizar, Borrar) bási
 
 ## Funcionalidades (Features)
 
-* **Crear registro (Create record):** Al hacer clic en el botón "Crear Estudiante" (Create Student) o similar, **a form opens to add a new student (Name, Address, City, Postal Code).**
+* **Crear registro (Create record):** Al hacer clic en el botón "Crear Estudiante" (Create Student) o similar. **a form opens to add a new student (Name, Address, City, Postal Code).**
 * **Leer registros (Read records):** La lista de estudiantes se muestra en una tabla HTML al cargar la página principal. **The list of students is displayed in an HTML table when the main page loads.**
 * **Actualizar registro (Update record):** Al hacer clic en el botón "Editar" (Edit) junto a un estudiante, se abre un formulario para modificar sus datos. **By clicking the "Edit" button next to a student, a form opens to modify their data.**
 * **Borrar registro (Delete record):** Al hacer clic en el botón "Borrar" (Delete) junto a un estudiante, se elimina su registro de la base de datos. **By clicking the "Delete" button next to a student, their record is deleted from the database.**
